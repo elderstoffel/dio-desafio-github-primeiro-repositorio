@@ -1,0 +1,1 @@
+Link para download do GIT: https://github.com/git-guides/install-git
